@@ -71,10 +71,6 @@ export default function App() {
               </tr>
             );
           })}
-          {/* HINT: Map to JSX */}
-
-          {/* Up? Green + ▲ */}
-          {/* Down? Red + ▼ */}
         </table>
         <div className="bottom-logo-ctr">
           <img
